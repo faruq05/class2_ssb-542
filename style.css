@@ -74,4 +74,6 @@
 .block_image img {
     width: 100%;
     display: block;
+    height: 500px;
+    object-fit: cover;
 }
