@@ -7,9 +7,11 @@
 .heading h1{
     text-align: center;
     margin-bottom: 20px;
+    color: #fff;
 }
 .container {
     padding: 50px;
+    background-color: #000000e6;
 }
 
 .block {
@@ -19,7 +21,7 @@
     margin: 0 auto;
     flex-wrap: wrap;
     box-sizing: border-box;
-    background-color: #f0f8ff;
+    background-color: #ffc95a;
 }
 
 .block_text {
@@ -32,7 +34,7 @@
     padding: 5px;
     width: 16%;
     text-align: center;
-    background-color: #ff7f504a;
+    background-color: #ff440080;
     border-radius: 4px;
 }
 
@@ -41,29 +43,31 @@
     padding: 10px 0px;
     font-weight: 600;
     text-transform: uppercase;
+    color: #000;
 }
 
 .block_text h3 {
     font-size: 20px;
     font-weight: 400;
     line-height: 30px;
+    color: #000;
 }
 
 .block_text button {
 
-    margin-top: 20px;
+margin-top: 20px;
 
-    padding: 10px 20px;
+padding: 10px 20px;
 
-    background-color: #f7d6cf;
+background-color: #ff8c44;
 
-    border: navajowhite;
+border: navajowhite;
 
-    font-size: 16px;
+font-size: 16px;
 
-    border-radius: 5px;
+border-radius: 5px;
 
-    cursor: pointer;
+cursor: pointer;
 }
 
 .block_image {
